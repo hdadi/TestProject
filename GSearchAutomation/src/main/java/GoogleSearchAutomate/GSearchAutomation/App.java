@@ -24,4 +24,9 @@ public class App
     	d=a*b;
     	System.out.println("Multiplication of a and b is: "+d);
     }
+	
+	public void mult(int a, int b, int c) {
+    	d=a*b*c;
+    	System.out.println("Multiplication of a and b is: "+d);
+    }
 }
