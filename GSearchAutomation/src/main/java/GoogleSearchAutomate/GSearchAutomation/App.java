@@ -20,6 +20,11 @@ public class App
             System.out.println("Addition of a and b is: "+c);
         }
     
+    public void add(int a, int b, int d){
+        c=a+b+d;
+        System.out.println("Addition of a and b is: "+c);
+    }
+    
     public void mult(int a, int b) {
     	d=a*b;
     	System.out.println("Multiplication of a and b is: "+d);
