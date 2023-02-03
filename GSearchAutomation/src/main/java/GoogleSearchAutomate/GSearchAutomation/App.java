@@ -12,8 +12,8 @@ public class App
         System.out.println( "Hello World!" );
                 
     }
-    public int add(int a, int b){
+    public void add(int a, int b){
             c=a+b;
-            System.out.println("Addition of a and b is: "c);
+            System.out.println("Addition of a and b is: "+c);
         }
 }
