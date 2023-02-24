@@ -9,6 +9,9 @@ public class Test1 {
 	System.out.println("Sum of x and y is: "+z);
 		//adding sysout from the Remote Master repo
 		System.out.println("This msg is from Remote Master repo");
+		
+		//from Remote Master repo
+		System.out.println("Multiplication of x and y is: "+(x*y));
 
 	}
 
