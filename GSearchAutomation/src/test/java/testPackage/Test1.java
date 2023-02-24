@@ -14,6 +14,9 @@ public class Test1 {
 		System.out.println("This msg is from Remote Master repo");
 		
 		System.out.println("Multiplication from local1 branch from local is: "+(x*y));
+		
+		//from Remote Master repo
+		System.out.println("Multiplication of x and y is: "+(x*y));
 
 	}
 
