@@ -7,7 +7,11 @@ public class Test1 {
 	int x=123,y=457;
 	int z=x+y;
 	System.out.println("Sum of x and y is: "+z);
+
 	//adding a comment from local
+	
+		//adding sysout from the Remote Master repo
+		System.out.println("This msg is from Remote Master repo");
 
 	}
 
