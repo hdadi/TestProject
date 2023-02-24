@@ -12,6 +12,8 @@ public class Test1 {
 	
 		//adding sysout from the Remote Master repo
 		System.out.println("This msg is from Remote Master repo");
+		
+		System.out.println("Multiplication from local1 branch from local is: "+(x*y));
 
 	}
 
